@@ -1,0 +1,13 @@
+venv/
+.idea/
+seed/
+*.sqlite3
+logs/*
+api/migrations/*
+api/migrations/
+deploy.sh
+s_deploy.sh
+*.pyc
+.env*
+scrape.py
+.DS_Store
