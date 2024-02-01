@@ -27,7 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '16f9-203-122-27-242.ngrok-free.app',
-    '127.0.0.1'
+    '127.0.0.1',
+    'dev.pay.phonepe.terracharge.net'
 ]
 
 
